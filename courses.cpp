@@ -25,7 +25,7 @@ int main()
 
 			case 2: {
                                                                  
-
+                                        printf("option 2");
 					printf("course AI/ML is chosen");}
  
 
