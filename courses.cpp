@@ -20,11 +20,11 @@ int main()
 			case 1: {
  
 
-					printf("course is cse chosen");}
- 
+					printf("course CSE is chosen");}
+                                                         
 
 			case 2: {
- 
+                                                                 
 
 					printf("course AI/ML is chosen");}
  
