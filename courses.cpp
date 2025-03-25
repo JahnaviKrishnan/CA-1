@@ -30,7 +30,7 @@ int main()
  
 
 			case 3:{
- 
+                                        printf("option 3");
 
 				       printf("course Robotics is chosen");}
  
