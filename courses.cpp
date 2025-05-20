@@ -15,28 +15,29 @@ int main()
  
 
 		{
+                                              
+
+			case 1: {                                       
  
 
-			case 1: {
+					printf("course is cse chosen");} break;
  
 
-					printf("course is cse chosen");}
+			case 2: {                                         
+                          
+                                                                           
+					printf("course AI/ML is chosen");} break;
  
 
-			case 2: {
- 
-
-					printf("course AI/ML is chosen");}
- 
-
-			case 3:{
- 
-
-				       printf("course Robotics is chosen");}
- 
-
-		         case 4: { printf("course data science is chosen");}
- 
+			case 3:{ 
+                                                  
+  
+     				       printf("course Robotics is chosen");}
+ break;
+                                    
+		         case 4: { printf{("option 4");
+					 printf("course data science is chosen");}
+                                                                                 break;
 
 			 default:{"please enter a valid choice"}
  
